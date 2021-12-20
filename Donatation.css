@@ -1,0 +1,30 @@
+
+body,html{
+     height: 100%;
+ }
+
+#feature{
+    padding:20% 30%;
+
+}
+.feature-box{
+    text-align:right;
+    padding:40px;
+}  
+.bgimg{
+    background-image: url('./backgroundimg.jpg');
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;    
+    position: relative;
+}
+
+#footer{
+    margin-top: 30px;
+    text-align: center;
+}
+.logo{
+    margin:2px;
+    padding: 3px;
+}
